@@ -1,0 +1,6 @@
+/myenv
+.env
+secret*
+*test*
+/.venv
+/venv
