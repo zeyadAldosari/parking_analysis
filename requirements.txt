@@ -2,3 +2,5 @@ streamlit
 pillow
 python-dotenv
 inference_sdk
+opencv-python
+ultralytics
